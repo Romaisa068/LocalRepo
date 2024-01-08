@@ -1,1 +1,1 @@
-<p>Firstly created repo locally</p>
+<p>Firstly locally created repo</p>
